@@ -34,6 +34,6 @@ AI-guided digital mental health assistance system with privacy-first architectur
 Gesture-based touchless computer control system using MediaPipe and OpenCV.
 
 
-![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddharthBose27&show_icons=true&theme=tokyonight)
+![Siddharth's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SiddharthBose27&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthBose27&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SiddharthBose27&layout=compact&theme=tokyonight)
