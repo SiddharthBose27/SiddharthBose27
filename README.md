@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi, I'm Siddharth Bose 👋
 
-<!--
-**SiddharthBose27/SiddharthBose27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning & Data Science Undergraduate at Bennett University
 
-Here are some ideas to get you started:
+## Focused on:
+- Machine Learning Systems
+- Forecasting Models
+- Deep Learning
+- Transformer Architectures
+- Spatio-Temporal Modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tech Stack
+- Python
+- PyTorch
+- Scikit-learn
+- FastAPI
+- React
+- SQL
+- XGBoost
+- Pandas
+- NumPy
+
+
+## Featured Projects
+
+### StratoWatch
+Spatio-temporal air quality forecasting platform using XGBoost, LSTM, TCN, and Transformer architectures.
+
+### Elevare Healthcare
+AI-guided digital mental health assistance system with privacy-first architecture.
+
+### GloveTech
+Gesture-based touchless computer control system using MediaPipe and OpenCV.
+
+
+![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddharthBose27&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthBose27&layout=compact&theme=tokyonight)
